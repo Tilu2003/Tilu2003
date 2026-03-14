@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a developer who believes in **building first, perfecting later**. I combine web development skills with a genuine passion for AI/ML — a rare combo that I'm turning into real projects.
 
@@ -49,7 +49,7 @@ I'm a developer who believes in **building first, perfecting later**. I combine 
 
 ## 🚀 Featured Projects
 
-### 🎨 [SATO-AI-Fashion](https://github.com/Tilu2003/SATO-AI-fashion)
+###  [SATO-AI-Fashion](https://github.com/Tilu2003/SATO-AI-fashion)
 > AI-powered fashion recommendation system built with Python and machine learning.
 > This is where my ML theory meets real-world application.
 
@@ -57,7 +57,7 @@ I'm a developer who believes in **building first, perfecting later**. I combine 
 
 ---
 
-### 🏛️ [Pradeshiya Sabha App](https://github.com/Tilu2003/pradeshiya-sabha-app)
+### [Pradeshiya Sabha App](https://github.com/Tilu2003/pradeshiya-sabha-app)
 > Full-stack web application for local government service management.
 > Built as part of a Software Development Project — real requirements, real users.
 
